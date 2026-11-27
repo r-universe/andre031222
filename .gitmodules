@@ -5,3 +5,4 @@
 [submodule "faperu"]
 	path = faperu
 	url = https://github.com/Andre031222/peru-official-surveys-r
+	branch = main
