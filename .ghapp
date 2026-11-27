@@ -1,0 +1,10 @@
+{
+  "id": 186552941,
+  "created_at": "2026-11-27T16:24:17.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["peru-official-surveys-r", "andre031222.r-universe.dev"]
+}
